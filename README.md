@@ -37,6 +37,7 @@ JDK版本：1.8
 
 Node版本：14
 #### 四、运行截图（点图片可放大）
+![Snipaste_2023-12-04_10-06-03](https://github.com/666bears/transit/assets/143094776/c07b3f4e-7de0-45ed-b7ae-24933098ca0e)
 
 ![Snipaste_2023-12-04_10-06-55](https://github.com/666bears/transit/assets/143094776/eeb8ca21-7d28-42ea-b47e-920e36e7074b)
 ![Snipaste_2023-12-04_10-07-32](https://github.com/666bears/transit/assets/143094776/62fd85f5-2a8e-4b94-b417-bd93b34b8f4c)
